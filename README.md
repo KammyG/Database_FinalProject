@@ -105,8 +105,4 @@ WHERE room_id = 2;
 * Deleting a hotel or user will automatically delete associated rooms or bookings (`ON DELETE CASCADE`).
 * The database can be extended to include additional features like payment, reviews, or room availability.
 
----
 
-
-If you want, I can also **add a section with diagrams or an ERD** so your README looks professional and complete for submission. Do you want me to do that?
-```
